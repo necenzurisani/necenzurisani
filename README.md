@@ -1,5 +1,5 @@
 # 💫 About Me:
-My name is Mihajlo Ničin and I'm 16 years old.<br>I'm from Kruševac, Serbia and I'm currently studying Computer Science at Gimnazija Kruševac.<br><br>My interests are Video and Photo editing, Programming, C++, C#, Python, HTML, CSS, JS, SQL, MATLAB.
+My name is Mihajlo Ničin and I'm 17 years old.<br>I'm from Kruševac, Serbia and I'm currently studying Computer Science at Gimnazija Kruševac.<br><br>My interests are Video and Photo editing, Programming, C++, C#, Python, HTML, CSS, JS, SQL, MATLAB.
 
 
 ## 🌐 Socials:
